@@ -1,15 +1,27 @@
 # 🎵 Heat-Waves Lyrics - Python Terminal Animation
 
-Sebuah script Python sederhana untuk menampilkan lirik lagu **"Heat Waves"** oleh **Glass Animals** di terminal dengan efek ketik satu per satu dan warna-warna dramatis.
+Sebuah script Python sederhana untuk menampilkan lirik lagu **"Heat Waves"** oleh **Glass Animals** di terminal dengan efek ketik per huruf dan warna dramatis.
 
-> 💻 Bisa dijalankan di **Termux (Android)** atau **terminal Linux/Mac**.
+> 💻 Bisa dijalankan di **Termux (Android)** atau terminal **Linux/Mac**.
 
 ---
 
-## 🚀 Cara Cepat Menggunakan (Termux)
+## 🚀 Cara Menjalankan di Termux
 
-### 1. buat nano
-``` nano heat-waves
+### 1. Install Python
 
-### 2. tempelkan kode script 
-```` 
+```bash
+pkg update && pkg upgrade
+pkg install python
+
+## Buat file script 
+nano heatwaves.py
+
+# tempelkan kode
+heatwaves.py
+# simpan file nano
+simpan file tekan ctrl + x
+tekan y untuk enter
+
+## jalankan script dengan perintah
+python heatwaves.py
