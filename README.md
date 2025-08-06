@@ -10,5 +10,5 @@ Sebuah script Python sederhana untuk menampilkan lirik lagu **"Heat Waves"** ole
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/rizalputraaa/heat-waves-terminal.git
+git clone https://github.com/rizalputra5/heat-waves-terminal.git
 cd heat-waves-terminal
