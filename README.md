@@ -8,7 +8,8 @@ Sebuah script Python sederhana untuk menampilkan lirik lagu **"Heat Waves"** ole
 
 ## 🚀 Cara Cepat Menggunakan (Termux)
 
-### 1. Clone Repository
-```bash
-git clone https://github.com/rizalputra5/heat-waves-terminal.git
-cd heat-waves-terminal
+### 1. buat nano
+``` nano heat-waves
+
+### 2. tempelkan kode script 
+```` 
